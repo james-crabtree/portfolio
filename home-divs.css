@@ -1,0 +1,44 @@
+.html-skill-div {
+  width: 18em;
+  height: 1em;
+  background-color: #f06529;
+  border: gray 3px solid;
+  padding: 3px;
+  padding-left: 10px;
+}
+
+.css-skill-div {
+  width: 18em;
+  height: 1em;
+  background: linear-gradient(to right, #2965f1 92%, white 8%);
+  border: gray 3px solid;
+  padding: 3px;
+  padding-left: 10px;
+}
+
+.js-skill-div {
+  width: 18em;
+  height: 1em;
+  background: linear-gradient(to right, #f0db4f 80%, white 20%);
+  border: gray 3px solid;
+  padding: 3px;
+  padding-left: 10px;
+}
+
+.handlebars-skill-div {
+  width: 18em;
+  height: 1em;
+  background: linear-gradient(to right, #65f350 25%, white 0%);
+  border: gray 3px solid;
+  padding: 3px;
+  padding-left: 10px;
+}
+
+.servers-skill-div {
+  width: 18em;
+  height: 1em;
+  background: linear-gradient(to right, lightgray 10%, white 0%);
+  border: gray 3px solid;
+  padding: 3px;
+  padding-left: 10px;
+}
